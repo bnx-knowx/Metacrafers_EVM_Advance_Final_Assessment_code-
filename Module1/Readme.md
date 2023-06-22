@@ -67,3 +67,7 @@ On the 2nd terminal use `npx hardhat node` to create and start etheream blockcha
 On the 3rd terminal use `npx hardhat run --network localhost ./scripts/deploy.ts` to deploy your contract on the local blolkchain
 
 now on the 1st terminal use `npm run dev` to start the project
+
+### Usage Tutorial
+use this video to get a understand of how my app works
+
