@@ -70,4 +70,11 @@ now on the 1st terminal use `npm run dev` to start the project
 
 ### Usage Tutorial
 use this video to get a understand of how my app works
+https://www.loom.com/share/4c3532f3833647cd93abfe839567c464?sid=961eb156-763b-47d6-9dfc-ae32cc8e18ea
+## Authors
+
+Contributors names and contact info
+
+Sarbaseesh Ganguly gmail-sarbaseeshganguly@gmail.com
+Discord profile address - BNXS_G#6637
 
