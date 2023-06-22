@@ -52,3 +52,18 @@ Now create two folder within the pages folder called admin and client.
 Now create file same as admin and client folders of this git repo and copy one by one the file contects from the admin and client folders of this git repo to your files. 
 
 ## Project execution and Deployment
+Copy the file name of unfer contracts forlder on git repo and create a file within the contracts folder in your project directory with the coppied name with .sol extension
+
+
+Now copy the smartcontract file contains to your newly created smartcontract
+
+
+Now go to the scripts folder and copy the deploy.js file contant from git repo your local deploy.ts file
+
+Now create 3 terminals 
+
+On the 2nd terminal use `npx hardhat node` to create and start etheream blockchain network locally
+
+On the 3rd terminal use `npx hardhat run --network localhost ./scripts/deploy.ts` to deploy your contract on the local blolkchain
+
+now on the 1st terminal use `npm run dev` to start the project
