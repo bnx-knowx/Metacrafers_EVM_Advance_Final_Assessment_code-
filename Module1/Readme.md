@@ -9,7 +9,7 @@ Shakeholders can withdraw their token after the vesting period.
 
 ### Follow Bellow stpes to setup the project
 Install next.js in your locally machine. using ```npm i -g create-next-app```
-- npx create-next-app@latest
+- then run ```npx create-next-app@latest```
 - give a project name for me its vesting_app
 - Would you like to use TypeScript with this project? Yes
 - Would you like to use ESLint with this project? yes
