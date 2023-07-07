@@ -31,13 +31,13 @@ name the project same as the name you did when created the app using `npx create
 
 use `npm install --save-dev hardhat` to install hardhat 
 
-```npm install --save-dev "hardhat@^2.16.1" "@nomicfoundation/hardhat-toolbox@^3.0.0"```
 
 delete the tsconfig.json file
 
 
 `npx hardhat`  = it will creates a new hardhat file
 
+then run ```npm install --save-dev "hardhat@^2.16.1" "@nomicfoundation/hardhat-toolbox@^3.0.0"```
 
 then select the create a typescript project
 
