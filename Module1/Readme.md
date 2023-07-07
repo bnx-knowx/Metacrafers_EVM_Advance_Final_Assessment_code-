@@ -18,7 +18,7 @@ Install next.js in your locally machine. using ```npm i -g create-next-app```
 
 Use `cd vesting_app` (Go to the newly created project folder for me its vesting_app)
 
-`npm install -D tailwindcss postcss autoprefixer`
+then run `npm install -D tailwindcss postcss autoprefixer`
 
 `npx tailwindcss init –p`
 
@@ -31,6 +31,7 @@ name the project same as the name you did when created the app using `npx create
 
 use `npm install --save-dev hardhat` to install hardhat 
 
+```npm install --save-dev "hardhat@^2.16.1" "@nomicfoundation/hardhat-toolbox@^3.0.0"```
 
 delete the tsconfig.json file
 
