@@ -8,8 +8,9 @@ Once the organization is created, they can enroll token holders for vesting.
 Shakeholders can withdraw their token after the vesting period.
 
 ### Follow Bellow stpes to setup the project
-Install next.js in your locally machine.
-npx create-next-app@latest 
+Install next.js in your locally machine. using ```npm i -g create-next-app```
+- npx create-next-app@latest
+- give a project name for me its vesting_app
 - Would you like to use TypeScript with this project? Yes
 - Would you like to use ESLint with this project? yes
 - Would you like to use Tailwind CSS with this project? »yes
