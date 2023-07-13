@@ -8,7 +8,7 @@ Once the organization is created, they can enroll token holders for vesting.
 Shakeholders can withdraw their token after the vesting period.
 
 ### Follow Bellow stpes to setup the project
-Install next.js in your locally machine. using ```npm i -g create-next-app```
+Install next.js in your locally machine. using`
 - then run ```npx create-next-app@latest```
 - give a project name for me its vesting_app
 - Would you like to use TypeScript with this project? Yes
@@ -52,6 +52,8 @@ Now create two folder within the pages folder called admin and client.
 
 
 Now create file same as admin and client folders of this git repo and copy one by one the file contects from the admin and client folders of this git repo to your files. 
+
+path index file in the orga_admin folder to the pages folder
 
 ## Project execution and Deployment
 Copy the file name of unfer contracts forlder on git repo and create a file within the contracts folder in your project directory with the coppied name with .sol extension
